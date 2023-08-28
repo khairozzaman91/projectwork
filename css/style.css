@@ -197,6 +197,7 @@ footer{
     background: #151414;
     display: flex;
     gap: 50px;
+    margin-bottom: -15px;
     justify-content: center;
     padding-top: 130px;
 }
