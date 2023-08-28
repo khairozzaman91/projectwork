@@ -115,15 +115,35 @@ feature section start */
 }
 .CourseDe{
     padding-left: -125px;
+    width: 270px;
+    height: 35px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    margin-left: -90px;
+}
+.CourseDescrive{
+    color: #737272;
+     text-align: left;
+     font-size: 15px;
+     width: 177px;
+     height: 15px;
+     margin-right: 60px;
+     
 }
 
+
+
 .myplan{
-  
+    width: 179px;
+    height: 47px;
     padding: 5% 28%;
+    color:#151414;
+    font-size: 40px;
+
 }
 .featurs{
     display: flex;
-    gap: 25px;
+    
 }
 
 /* section settime  */
