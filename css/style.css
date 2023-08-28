@@ -75,11 +75,35 @@
 
 .aboutme{
     padding-left: 40px;
+    padding-top: 155px;
 }
 
+.failure{
+    color:#151414;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+}
+
+.failuredes{
+    color: #444343;
+    font-size: 16px;
+    height: 106p;
+    width: 416px;
+}
+
+.simpledes{
+    width: 355px;
+    height: 16px;
+    color:#444343;
+    font-size: 16px;
+
+}
 /* 
 feature section start */
-
+.contaniaraboutme{
+    padding-left: 65px;
+}
 
 
 .plansection{
