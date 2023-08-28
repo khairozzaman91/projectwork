@@ -13,16 +13,24 @@
     margin-top: -55px;
     display: flex;
     justify-content: right;
+
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
 }
 
 .about-think{
-    padding-right: 845px;
     width:525px;
     height:228px;
     color:#151414;
     text-align: right;
     font-size: 65px;
-    padding: 216px 230px 0 845px;
+    padding: 216px 230px 0px 845px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
 
 }
 
@@ -32,7 +40,7 @@
     color:#444343;
     text-align: right;
     font-size: 16px;
-    margin: 24px 230px 0 876px;
+    padding: 2px 230px 0px 876px;
     
 }
 /* btn-primaray */
@@ -44,9 +52,7 @@
     border: 0;
     font-size: 20px;
     color: #fff;
-    font-weight: 700;
-    padding: 15px 35px;
-    text-align: right;
+    padding: 20px  120px;
     margin: 24px 255px 186px 1236px;
 
 
