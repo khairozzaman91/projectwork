@@ -1,6 +1,8 @@
+/* body section */
 *{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
+    margin-right: 5%;
 }
 
 /* head section start */
@@ -13,10 +15,12 @@
     margin-top: -55px;
     display: flex;
     justify-content: right;
-    width: 1600px;
+    width: 1750px;
     height: 808px;
     flex-shrink: 0;
 }
+
+/* about think section */
 
 .about-think{
     width:525px;
@@ -32,7 +36,7 @@
 
 
 }
-
+/* about descrive section */
 .about-descripe{
     width: 494px;
     height: 78px;
@@ -113,6 +117,10 @@ feature section start */
 .courseaboutdetalis img{
     position: center;
 }
+.courseaboutdetalis{
+    padding-left: -65px;
+}
+
 .CourseDe{
     padding-left: -125px;
     width: 270px;
@@ -139,6 +147,7 @@ feature section start */
     padding: 5% 28%;
     color:#151414;
     font-size: 40px;
+    padding-left: 355px;
 
 }
 .featurs{
@@ -154,7 +163,7 @@ feature section start */
     width: 1140px;
     height: 300px;
     background-position: bottom right;
-    padding-left: 350px;
+    padding-left: 345px;
     padding-top: 125px;
 
 }
@@ -178,11 +187,12 @@ feature section start */
          
 
     }
+    /* main section end */
 /* footer section start */
 
 footer{
     margin-top: 130px;
-    width: 1600px;
+    width: 1750px;
     height: 450px;
     background: #151414;
     display: flex;
