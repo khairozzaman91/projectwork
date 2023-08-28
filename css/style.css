@@ -62,10 +62,25 @@
 
 }
 .contaniar img{
-    width: 475px;
+    width: 451px;
     padding-left: 40px;
 }
 
 .aboutme{
     padding-left: 40px;
+}
+
+/* 
+feature section start */
+.plansection{
+    padding-left: 33%;
+}
+
+.myplan{
+  
+    padding: 5% 28%;
+}
+.featurs{
+    display: flex;
+    gap: 25px;
 }
