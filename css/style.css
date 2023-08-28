@@ -1,0 +1,55 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* head section start */
+
+.header{
+    background-color:lightgray -0.889px 0px / 100.111% 111.51%;
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    /* background-position: bottom left; */
+    margin-top: -55px;
+    display: flex;
+    justify-content: right;
+}
+
+.about-think{
+    padding-right: 845px;
+    width:525px;
+    height:228px;
+    color:#151414;
+    text-align: right;
+    font-size: 65px;
+    padding: 216px 230px 0 845px;
+
+}
+
+.about-descripe{
+    width: 494px;
+    height: 78px;
+    color:#444343;
+    text-align: right;
+    font-size: 16px;
+    margin: 24px 230px 0 876px;
+    
+}
+/* btn-primaray */
+
+.btn-primary{
+
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    padding: 15px 35px;
+    text-align: right;
+    margin: 24px 255px 186px 1236px;
+
+
+} 
+
+/* header section end */
