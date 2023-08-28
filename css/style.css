@@ -95,3 +95,45 @@ feature section start */
     background-position: bottom center;
 
 }
+
+/* footer section start */
+
+footer{
+    margin-top: 130px;
+    width: 1600px;
+    height: 450px;
+    background: #151414;
+    display: flex;
+}
+
+.featureabout{
+    color: #F8F8F8;
+    
+}
+
+
+.featuredescribe{
+    color: #FFF;
+    width: 485px;
+    
+    
+}
+
+.footerSubscribe{
+    display:block;
+}
+
+.email{
+    color: #FFF;
+    display: block;
+
+}
+
+.phone{
+    color: #FFF;
+}
+
+.Subscribe{
+    color: #FFF;
+    
+}
