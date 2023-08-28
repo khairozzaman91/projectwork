@@ -84,3 +84,14 @@ feature section start */
     display: flex;
     gap: 25px;
 }
+
+/* section settime  */
+
+.timeset{
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    background-position: bottom center;
+
+}
