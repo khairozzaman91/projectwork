@@ -53,3 +53,19 @@
 } 
 
 /* header section end */
+
+/* main section start  */
+
+.contaniar{
+    display: flex;
+    justify-content: center;
+
+}
+.contaniar img{
+    width: 475px;
+    padding-left: 40px;
+}
+
+.aboutme{
+    padding-left: 40px;
+}
